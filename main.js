@@ -39,7 +39,7 @@ class Wagon {
       if (this.passengers[i].isHealthy === false) {
         return true;
       } else {
-        return "No need to Quarantine";
+        return "No need to Quarantine"; 
       }
     }
   }
